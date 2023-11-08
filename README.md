@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dakota Ponder</h1>
-<h3 align="center">A passionate fullstack engineer from Tennessee</h3>
+<h3 align="center">I'm a passionate learner who's always checking out new 
+                    technologies and domains!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakota-ponder&label=Profile%20views&color=0e75b6&style=flat" alt="dakota-ponder" /> </p>
 
